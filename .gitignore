@@ -21,3 +21,5 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+SETUP_GUIDE.md
+SPEC_ECOMMERCE.md
